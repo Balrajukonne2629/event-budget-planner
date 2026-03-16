@@ -24,7 +24,7 @@ This project demonstrates end-to-end full-stack development skills including RES
 
 ---
 
-## 🎯 Key Highlights for Recruiters
+## 🎯 Key Highlights 
 
 - ✅ **Full-stack MERN** — MongoDB, Express, React (Vite), Node.js
 - ✅ **JWT Authentication** — secure register/login with protected routes
@@ -38,9 +38,6 @@ This project demonstrates end-to-end full-stack development skills including RES
 ---
 
 ## 📸 Screenshots
-
-> **Note to developer:** Add the following screenshots to a `/screenshots` folder in your repo root.
-
 ### 1. Login Page
 <!-- Screenshot: Login form with email/password fields and sign-in button -->
 ![Login](screenshots/login.png)
